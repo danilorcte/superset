@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<publish xmlns="http://tempuri.org/XMLSchema1.xsd"> 
+<client_info>
+            <creci>8283-J</creci>
+        </client_info> 
+<properties>
+<property>
+  <common_data>
+    <reference_code>a</reference_code>
+  </common_data>
+</property>
+</properties>
+</publish>
